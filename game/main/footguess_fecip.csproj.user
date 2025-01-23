@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="1_Qual_O_Time.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1_Restam11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="champions1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="champions2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="champions3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="champions4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="champions5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="champions6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="champions7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="champions8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="qual_o_time_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="qual_o_time_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="qual_o_time_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="qual_o_time_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="qual_o_time_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="qual_o_time_6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="qual_o_time_7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="qual_o_time_8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="restam11_barca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="restam11_barca_completo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="restam11_fla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="restam11_fla_completo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="restam11_psg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="restam11_psg_completo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="restam11_rma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="restam11_rma_completo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="worldcup1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="worldcup2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="worldcup3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="worldcup4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="worldcup5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="worldcup6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="worldcup7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

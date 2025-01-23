@@ -1,0 +1,637 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\qual_o_time_7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\qual_o_time_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\qual_o_time_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\qual_o_time_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\qual_o_time_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\restam11_fla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\restam11_fla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\restam11_fla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\restam11_fla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\restam11_fla.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\restam11_fla.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\restam11_rma.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\restam11_rma.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\restam11_barca_completo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\restam11_barca_completo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\restam11_barca_completo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\restam11_barca_completo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\qual_o_time_1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\qual_o_time_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\restam11_barca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\restam11_barca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\restam11_barca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\restam11_barca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\modos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\modos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\modos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\modos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\1_restam11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\1_restam11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\champions8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\champions8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\restam11_barca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\restam11_barca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\restam11_psg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\restam11_psg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\restam11_rma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\restam11_rma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\qual_o_time_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\1_qual_o_time.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\1_qual_o_time.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\restam11_rma_completo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\restam11_rma_completo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\restam11_rma_completo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\restam11_rma_completo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\worldcup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\worldcup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\worldcup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\worldcup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\worldcup4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\worldcup4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\worldcup7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\worldcup7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\worldcup7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\worldcup7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\1_qual_o_time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\1_qual_o_time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|c:\\users\\paulo\\onedrive\\documentos\\footguess_fecip\\footguess_fecip\\footguess_fecip.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F785300A-9654-4B33-B188-703AA40BA751}|footguess_fecip\\footguess_fecip.csproj|solutionrelative:footguess_fecip\\footguess_fecip.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "qual_o_time_7.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_7.Designer.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\qual_o_time_7.Designer.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_7.Designer.cs",
+              "RelativeToolTip": "footguess_fecip\\qual_o_time_7.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAASwF0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:22:22.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "qual_o_time_7.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_7.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\qual_o_time_7.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_7.cs",
+              "RelativeToolTip": "footguess_fecip\\qual_o_time_7.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA0wEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:21:09.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "qual_o_time_7.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_7.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\qual_o_time_7.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_7.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\qual_o_time_7.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:21:06.416Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "qual_o_time_8.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_8.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\qual_o_time_8.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_8.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\qual_o_time_8.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:20:56.988Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "restam11_fla.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_fla.Designer.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\restam11_fla.Designer.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_fla.Designer.cs",
+              "RelativeToolTip": "footguess_fecip\\restam11_fla.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:10:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "restam11_fla.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_fla.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\restam11_fla.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_fla.cs",
+              "RelativeToolTip": "footguess_fecip\\restam11_fla.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wCkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:10:02.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "restam11_fla.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_fla.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\restam11_fla.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_fla.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\restam11_fla.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:10:00.289Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "restam11_rma.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_rma.Designer.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\restam11_rma.Designer.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_rma.Designer.cs",
+              "RelativeToolTip": "footguess_fecip\\restam11_rma.Designer.cs",
+              "ViewState": "AgIAAKABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:52:41.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "qual_o_time_8.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_8.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\qual_o_time_8.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_8.cs",
+              "RelativeToolTip": "footguess_fecip\\qual_o_time_8.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:40:13.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\Form1.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\Form1.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\Form1.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:12:03.741Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\Form1.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\Form1.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\Form1.cs",
+              "RelativeToolTip": "footguess_fecip\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:12:20.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "restam11_barca_completo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_barca_completo.Designer.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\restam11_barca_completo.Designer.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_barca_completo.Designer.cs",
+              "RelativeToolTip": "footguess_fecip\\restam11_barca_completo.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:51:11.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "restam11_barca_completo.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_barca_completo.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\restam11_barca_completo.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_barca_completo.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\restam11_barca_completo.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:51:17.059Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "qual_o_time_1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_1.Designer.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\qual_o_time_1.Designer.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_1.Designer.cs",
+              "RelativeToolTip": "footguess_fecip\\qual_o_time_1.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:51:25.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "restam11_barca.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_barca.Designer.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\restam11_barca.Designer.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_barca.Designer.cs",
+              "RelativeToolTip": "footguess_fecip\\restam11_barca.Designer.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:50:41.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "restam11_barca.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_barca.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\restam11_barca.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_barca.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\restam11_barca.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:50:37.078Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Modos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\Modos.Designer.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\Modos.Designer.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\Modos.Designer.cs",
+              "RelativeToolTip": "footguess_fecip\\Modos.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:46:47.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "qual_o_time_1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_1.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\qual_o_time_1.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_1.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\qual_o_time_1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:37:47.417Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "restam11_barca.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_barca.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\restam11_barca.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_barca.cs",
+              "RelativeToolTip": "footguess_fecip\\restam11_barca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:39:52.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "restam11_psg.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_psg.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\restam11_psg.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_psg.cs",
+              "RelativeToolTip": "footguess_fecip\\restam11_psg.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAASwM4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:39:46.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "restam11_rma.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_rma.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\restam11_rma.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_rma.cs",
+              "RelativeToolTip": "footguess_fecip\\restam11_rma.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAASwMIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:38:24.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "qual_o_time_2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_2.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\qual_o_time_2.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\qual_o_time_2.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\qual_o_time_2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:37:48.856Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Modos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\Modos.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\Modos.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\Modos.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\Modos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:31:46.872Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "1_Restam11.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\1_Restam11.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\1_Restam11.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\1_Restam11.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\1_Restam11.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:45:58.789Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\Form1.Designer.cs",
+              "RelativeToolTip": "footguess_fecip\\Form1.Designer.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAuwGEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:33:06.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "champions8.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\champions8.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\champions8.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\champions8.cs",
+              "RelativeToolTip": "footguess_fecip\\champions8.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:44:24.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "1_Qual_O_Time.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\1_Qual_O_Time.Designer.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\1_Qual_O_Time.Designer.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\1_Qual_O_Time.Designer.cs",
+              "RelativeToolTip": "footguess_fecip\\1_Qual_O_Time.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:37:01.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "restam11_rma_completo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_rma_completo.Designer.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\restam11_rma_completo.Designer.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_rma_completo.Designer.cs",
+              "RelativeToolTip": "footguess_fecip\\restam11_rma_completo.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:36:08.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "restam11_rma_completo.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_rma_completo.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\restam11_rma_completo.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\restam11_rma_completo.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\restam11_rma_completo.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:36:05.551Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "worldcup1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\worldcup1.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\worldcup1.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\worldcup1.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\worldcup1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:36:04.546Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "worldcup2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\worldcup2.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\worldcup2.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\worldcup2.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\worldcup2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:36:03.888Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "worldcup4.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\worldcup4.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\worldcup4.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\worldcup4.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\worldcup4.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:36:02.805Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "worldcup7.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\worldcup7.Designer.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\worldcup7.Designer.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\worldcup7.Designer.cs",
+              "RelativeToolTip": "footguess_fecip\\worldcup7.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:36:00.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "worldcup7.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\worldcup7.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\worldcup7.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\worldcup7.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\worldcup7.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:35:57.582Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "1_Qual_O_Time.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\1_Qual_O_Time.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\1_Qual_O_Time.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\1_Qual_O_Time.cs [Projeto]",
+              "RelativeToolTip": "footguess_fecip\\1_Qual_O_Time.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:32:49.308Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\Program.cs",
+              "RelativeDocumentMoniker": "footguess_fecip\\Program.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\Program.cs",
+              "RelativeToolTip": "footguess_fecip\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:31:26.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "footguess_fecip",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\footguess_fecip.csproj",
+              "RelativeDocumentMoniker": "footguess_fecip\\footguess_fecip.csproj",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\footguess_fecip\\footguess_fecip\\footguess_fecip.csproj",
+              "RelativeToolTip": "footguess_fecip\\footguess_fecip.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T17:29:29.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
